@@ -1,0 +1,32 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.App{
+  display: flex;
+  flex-direction: column;
+  gap: 65px;
+  /* flex-wrap: wrap; */
+}
+
+.box{
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  /* flex-wrap: wrap; */
+}
+
+.box div{
+  display: flex;
+  gap: 25px;
+  flex-wrap: wrap;
+}
+
+.App h2{
+  font-size: 4em;
+  text-align: start;
+  text-transform: uppercase;
+}

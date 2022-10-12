@@ -31,6 +31,26 @@ import { Nebulas, Nem, Nexo, Next, Note, Note1, NoteAdd, NoteFavorite, Notepad, 
 import { OceanProtocol, Okb, Okru, OmegaCircle, OmegaSquare, Ontology } from "iconsax-react"
 // Index: P
 import { Paintbucket, Paperclip, Paperclip2, PasswordCheck, PathTool, PathTool2, PathToolSquare, Pause, PauseCircle, Paypal, PenAdd, PenClose, PenRemove, PenTool, PenTool2, People, PercentageCircle, PercentageSquare, Personalcard, Pet, Pharagraphspacing, Photoshop, PictureFrame, Play, PlayAdd, PlayCircle, PlayCricle, PlayRemove, Pointer, Polkadot, Polygon, Polyswarm, PresentionChart, Previous, Printer, PrinterSlash, Profile, Profile2User, ProfileAdd, ProfileCircle, ProfileDelete, ProfileRemove, ProfileTick, ProgrammingArrow, ProgrammingArrows, Python } from "iconsax-react"
+// Index: Q
+import { Quant, QuoteDown, QuoteDownCircle, QuoteDownSquare, QuoteUp, QuoteUpCircle, QuoteUpSquare } from "iconsax-react"
+// Index: R
+import { Radar, Radar2, Radio, Ram, Ram2, Rank, Ranking, Receipt, Receipt1, Receipt2, Receipt21, ReceiptAdd, ReceiptDiscount, ReceiptDisscount, ReceiptEdit, ReceiptItem, ReceiptMinus, ReceiptSearch, ReceiptSquare, ReceiptText, Receive, ReceiveSquare, ReceiveSquare2, Record, RecordCircle, RecoveryConvert, Refresh, Refresh2, RefreshCircle, RefreshLeftSquare, RefreshRightSquare, RefreshSquare, Repeat, RepeatCircle, RepeateMusic, RepeateOne, Reserve, RotateLeft, RotateRight, RouteSquare, Routing, Routing2, RowHorizontal, RowVertical, Ruler, RulerPen } from "iconsax-react"
+// Index: S
+import { SafeHome, Sagittarius, Save2, SaveAdd, SaveMinus, SaveRemove, Scan, ScanBarcode, Scanner, Scanning, Scissor, Screenmirroring, Scroll, SearchFavorite, SearchFavorite1, SearchNormal, SearchNormal1, SearchStatus, SearchStatus1, SearchZoomIn, SearchZoomIn1, SearchZoomOut, SearchZoomOut1, Security, SecurityCard, SecuritySafe, SecurityTime, SecurityUser, Send, Send2, Setting, Setting2, Setting3, Setting4, Setting5, Settings, Shapes, Shapes1, Share, Shield, ShieldCross, ShieldSearch, ShieldSecurity, ShieldSlash, ShieldTick, Ship, Shop, ShopAdd, ShoppingBag, ShoppingCart, ShopRemove, Shuffle, Shutterstock, Siacoin, SidebarBottom, SidebarLeft, SidebarRight, SidebarTop, Signpost, Simcard, Simcard1, Simcard2, Size, Slack, Slash, Slider, SliderHorizontal, SliderHorizontal1, SliderVertical, SliderVertical1, Smallcaps, SmartCar, SmartHome, Smileys, Sms, SmsEdit, SmsNotification, SmsSearch, SmsStar, SmsTracking, Snapchat, Solana, Sort, Sound, Speaker, Speedometer, Spotify, Stacks, Star, Star1, StarSlash, Status, StatusUp, Stellar, Sticker, Stickynote, Stop, StopCircle, Story, Strongbox, Strongbox2, Subtitle, Sun, Sun1, SunFog } from "iconsax-react"
+// Index: T
+import { TableDocument, TableLamp, Tag, Tag2, TagCross, TagRight, TagUser, Task, TaskSquare, Teacher, Tenx, Tether, Text, TextalignCenter, TextalignJustifycenter, TextalignJustifyleft, TextalignJustifyright, TextalignLeft, TextalignRight, TextBlock, TextBold, TextItalic, TextUnderline, TheGraph, Theta, Thorchain, TickCircle, Ticket, Ticket2, TicketDiscount, TicketExpired, TicketStar, TickSquare, Timer, Timer1, TimerPause, TimerStart, ToggleOff, ToggleOffCircle, ToggleOn, ToggleOnCircle, Trade, TransactionMinus, Translate, Transmit, TransmitSqaure2, TransmitSquare, Trash, Tree, Trello, TrendDown, TrendUp, Triangle, TriangleLogo, Trontron, Truck, TruckFast, TruckRemove, TruckTick, TruckTime, TrushSquare, Twitch } from "iconsax-react"
+// Index: U
+import { Ui8, Unlimited, Unlock, UsdCoin, User, UserAdd, UserCirlceAdd, UserEdit, UserMinus, UserOctagon, UserRemove, UserSearch, UserSquare, UserTag, UserTick } from "iconsax-react"
+// Index: V
+import { Velas, Verify, Vibe, Video, VideoAdd, VideoCircle, VideoHorizontal, VideoOctagon, VideoPlay, VideoRemove, VideoSlash, VideoSquare, VideoTick, VideoTime, VideoVertical, VoiceCricle, VoiceSquare, Volume, VolumeCross, VolumeHigh, VolumeLow, VolumeLow1, VolumeMute, VolumeSlash, VolumeUp } from "iconsax-react"
+// Index: W
+import { Wallet, Wallet1, Wallet2, Wallet3, WalletAdd, WalletAdd1, WalletCheck, WalletMinus, WalletMoney, WalletRemove, WalletSearch, Wanchain, Wanchain1, Warning2, Watch, WatchStatus, Weight, WeightMeter, Whatsapp, Wifi, WifiSquare, Wind, Wind2, Windows, Wing, Woman, WristClock } from "iconsax-react"
+// Index: X
+import { Xd, Xiaomi, Xrp } from "iconsax-react"
+// Index: Y
+import { Youtube } from "iconsax-react"
+// Index: Z
+import { Zel, Zoom } from "iconsax-react"
 
 function App({variant = 'Outline'}) {
 
@@ -837,6 +857,360 @@ function App({variant = 'Outline'}) {
           <ProgrammingArrow size={48} variant={variant}/>
           <ProgrammingArrows size={48} variant={variant}/>
           <Python size={48} variant={variant}/>
+        </div>
+      </div>
+      {/* Index: Q */}
+      <div className="box">
+        <h2>q</h2>
+        <div>
+          <Quant size={48} variant={variant}/>
+          <QuoteDown size={48} variant={variant}/>
+          <QuoteDownCircle size={48} variant={variant}/>
+          <QuoteDownSquare size={48} variant={variant}/>
+          <QuoteUp size={48} variant={variant}/>
+          <QuoteUpCircle size={48} variant={variant}/>
+          <QuoteUpSquare size={48} variant={variant}/>
+        </div>
+      </div>
+      {/* Index: R */}
+      <div className="box">
+        <h2>r</h2>
+        <div>
+          <Radar size={48} variant={variant}/>
+          <Radar2 size={48} variant={variant}/>
+          <Radio size={48} variant={variant}/>
+          <Ram size={48} variant={variant}/>
+          <Ram2 size={48} variant={variant}/>
+          <Rank size={48} variant={variant}/>
+          <Ranking size={48} variant={variant}/>
+          <Receipt size={48} variant={variant}/>
+          <Receipt1 size={48} variant={variant}/>
+          <Receipt2 size={48} variant={variant}/>
+          <Receipt21 size={48} variant={variant}/>
+          <ReceiptAdd size={48} variant={variant}/>
+          <ReceiptDiscount size={48} variant={variant}/>
+          <ReceiptDisscount size={48} variant={variant}/>
+          <ReceiptEdit size={48} variant={variant}/>
+          <ReceiptItem size={48} variant={variant}/>
+          <ReceiptMinus size={48} variant={variant}/>
+          <ReceiptSearch size={48} variant={variant}/>
+          <ReceiptSquare size={48} variant={variant}/>
+          <ReceiptText size={48} variant={variant}/>
+          <Receive size={48} variant={variant}/>
+          <ReceiveSquare size={48} variant={variant}/>
+          <ReceiveSquare2 size={48} variant={variant}/>
+          <Record size={48} variant={variant}/>
+          <RecordCircle size={48} variant={variant}/>
+          <RecoveryConvert size={48} variant={variant}/>
+          <Refresh size={48} variant={variant}/>
+          <Refresh2 size={48} variant={variant}/>
+          <RefreshCircle size={48} variant={variant}/>
+          <RefreshLeftSquare size={48} variant={variant}/>
+          <RefreshRightSquare size={48} variant={variant}/>
+          <RefreshSquare size={48} variant={variant}/>
+          <Repeat size={48} variant={variant}/>
+          <RepeatCircle size={48} variant={variant}/>
+          <RepeateMusic size={48} variant={variant}/>
+          <RepeateOne size={48} variant={variant}/>
+          <Reserve size={48} variant={variant}/>
+          <RotateLeft size={48} variant={variant}/>
+          <RotateRight size={48} variant={variant}/>
+          <RouteSquare size={48} variant={variant}/>
+          <Routing size={48} variant={variant}/>
+          <Routing2 size={48} variant={variant}/>
+          <RowHorizontal size={48} variant={variant}/>
+          <RowVertical size={48} variant={variant}/>
+          <Ruler size={48} variant={variant}/>
+          <RulerPen size={48} variant={variant}/>
+        </div>
+      </div>
+      {/* Index: S */}
+      <div className="box">
+        <h2>s</h2>
+        <div>
+          <SafeHome size={48} variant={variant}/>
+          <Sagittarius size={48} variant={variant}/>
+          <Save2 size={48} variant={variant}/>
+          <SaveAdd size={48} variant={variant}/>
+          <SaveMinus size={48} variant={variant}/>
+          <SaveRemove size={48} variant={variant}/>
+          <Scan size={48} variant={variant}/>
+          <ScanBarcode size={48} variant={variant}/>
+          <Scanner size={48} variant={variant}/>
+          <Scanning size={48} variant={variant}/>
+          <Scissor size={48} variant={variant}/>
+          <Screenmirroring size={48} variant={variant}/>
+          <Scroll size={48} variant={variant}/>
+          <SearchFavorite size={48} variant={variant}/>
+          <SearchFavorite1 size={48} variant={variant}/>
+          <SearchNormal size={48} variant={variant}/>
+          <SearchNormal1 size={48} variant={variant}/>
+          <SearchStatus size={48} variant={variant}/>
+          <SearchStatus1 size={48} variant={variant}/>
+          <SearchZoomIn size={48} variant={variant}/>
+          <SearchZoomIn1 size={48} variant={variant}/>
+          <SearchZoomOut size={48} variant={variant}/>
+          <SearchZoomOut1 size={48} variant={variant}/>
+          <Security size={48} variant={variant}/>
+          <SecurityCard size={48} variant={variant}/>
+          <SecuritySafe size={48} variant={variant}/>
+          <SecurityTime size={48} variant={variant}/>
+          <SecurityUser size={48} variant={variant}/>
+          <Send size={48} variant={variant}/>
+          <Send2 size={48} variant={variant}/>
+          <Setting size={48} variant={variant}/>
+          <Setting2 size={48} variant={variant}/>
+          <Setting3 size={48} variant={variant}/>
+          <Setting4 size={48} variant={variant}/>
+          <Setting5 size={48} variant={variant}/>
+          <Settings size={48} variant={variant}/>
+          <Shapes size={48} variant={variant}/>
+          <Shapes1 size={48} variant={variant}/>
+          <Share size={48} variant={variant}/>
+          <Shield size={48} variant={variant}/>
+          <ShieldCross size={48} variant={variant}/>
+          <ShieldSearch size={48} variant={variant}/>
+          <ShieldSecurity size={48} variant={variant}/>
+          <ShieldSlash size={48} variant={variant}/>
+          <ShieldTick size={48} variant={variant}/>
+          <Ship size={48} variant={variant}/>
+          <Shop size={48} variant={variant}/>
+          <ShopAdd size={48} variant={variant}/>
+          <ShopRemove size={48} variant={variant}/>
+          <ShoppingBag size={48} variant={variant}/>
+          <ShoppingCart size={48} variant={variant}/>
+          <Shuffle size={48} variant={variant}/>
+          <Shutterstock size={48} variant={variant}/>
+          <Siacoin size={48} variant={variant}/>
+          <SidebarBottom size={48} variant={variant}/>
+          <SidebarLeft size={48} variant={variant}/>
+          <SidebarRight size={48} variant={variant}/>
+          <SidebarTop size={48} variant={variant}/>
+          <Signpost size={48} variant={variant}/>
+          <Simcard size={48} variant={variant}/>
+          <Simcard1 size={48} variant={variant}/>
+          <Simcard2 size={48} variant={variant}/>
+          <Simcard2 size={48} variant={variant}/>
+          <Size size={48} variant={variant}/>
+          <Slack size={48} variant={variant}/>
+          <Slash size={48} variant={variant}/>
+          <Slider size={48} variant={variant}/>
+          <SliderHorizontal size={48} variant={variant}/>
+          <SliderHorizontal1 size={48} variant={variant}/>
+          <SliderVertical size={48} variant={variant}/>
+          <SliderVertical1 size={48} variant={variant}/>
+          <Smallcaps size={48} variant={variant}/>
+          <SmartCar size={48} variant={variant}/>
+          <SmartHome size={48} variant={variant}/>
+          <Smileys size={48} variant={variant}/>
+          <Sms size={48} variant={variant}/>
+          <SmsEdit size={48} variant={variant}/>
+          <SmsNotification size={48} variant={variant}/>
+          <SmsSearch size={48} variant={variant}/>
+          <SmsStar size={48} variant={variant}/>
+          <SmsTracking size={48} variant={variant}/>
+          <Snapchat size={48} variant={variant}/>
+          <Solana size={48} variant={variant}/>
+          <Sort size={48} variant={variant}/>
+          <Sound size={48} variant={variant}/>
+          <Speaker size={48} variant={variant}/>
+          <Speedometer size={48} variant={variant}/>
+          <Spotify size={48} variant={variant}/>
+          <Stacks size={48} variant={variant}/>
+          <Star size={48} variant={variant}/>
+          <Star1 size={48} variant={variant}/>
+          <StarSlash size={48} variant={variant}/>
+          <Status size={48} variant={variant}/>
+          <StatusUp size={48} variant={variant}/>
+          <Stellar size={48} variant={variant}/>
+          <Sticker size={48} variant={variant}/>
+          <Stickynote size={48} variant={variant}/>
+          <Stop size={48} variant={variant}/>
+          <StopCircle size={48} variant={variant}/>
+          <Story size={48} variant={variant}/>
+          <Strongbox size={48} variant={variant}/>
+          <Strongbox2 size={48} variant={variant}/>
+          <Subtitle size={48} variant={variant}/>
+          <Sun size={48} variant={variant}/>
+          <Sun1 size={48} variant={variant}/>
+          <SunFog size={48} variant={variant}/>
+        </div>
+      </div>
+      {/* Index: T */}
+      <div className="box">
+        <h2>T</h2>
+        <div>
+          <TableDocument size={48} variant={variant}/>
+          <TableLamp size={48} variant={variant}/>
+          <Tag size={48} variant={variant}/>
+          <Tag2 size={48} variant={variant}/>
+          <TagCross size={48} variant={variant}/>
+          <TagRight size={48} variant={variant}/>
+          <TagUser size={48} variant={variant}/>
+          <Task size={48} variant={variant}/>
+          <TaskSquare size={48} variant={variant}/>
+          <Teacher size={48} variant={variant}/>
+          <Tenx size={48} variant={variant}/>
+          <Tether size={48} variant={variant}/>
+          <Text size={48} variant={variant}/>
+          <TextBlock size={48} variant={variant}/>
+          <TextBold size={48} variant={variant}/>
+          <TextItalic size={48} variant={variant}/>
+          <TextUnderline size={48} variant={variant}/>
+          <TextalignCenter size={48} variant={variant}/>
+          <TextalignJustifycenter size={48} variant={variant}/>
+          <TextalignJustifyleft size={48} variant={variant}/>
+          <TextalignJustifyright size={48} variant={variant}/>
+          <TextalignLeft size={48} variant={variant}/>
+          <TextalignRight size={48} variant={variant}/>
+          <TheGraph size={48} variant={variant}/>
+          <Theta size={48} variant={variant}/>
+          <Thorchain size={48} variant={variant}/>
+          <TickCircle size={48} variant={variant}/>
+          <TickSquare size={48} variant={variant}/>
+          <Ticket size={48} variant={variant}/>
+          <Ticket2 size={48} variant={variant}/>
+          <TicketDiscount size={48} variant={variant}/>
+          <TicketExpired size={48} variant={variant}/>
+          <TicketStar size={48} variant={variant}/>
+          <Timer size={48} variant={variant}/>
+          <Timer1 size={48} variant={variant}/>
+          <TimerPause size={48} variant={variant}/>
+          <TimerStart size={48} variant={variant}/>
+          <ToggleOff size={48} variant={variant}/>
+          <ToggleOffCircle size={48} variant={variant}/>
+          <ToggleOn size={48} variant={variant}/>
+          <ToggleOnCircle size={48} variant={variant}/>
+          <Trade size={48} variant={variant}/>
+          <TransactionMinus size={48} variant={variant}/>
+          <Translate size={48} variant={variant}/>
+          <Transmit size={48} variant={variant}/>
+          <TransmitSqaure2 size={48} variant={variant}/>
+          <TransmitSquare size={48} variant={variant}/>
+          <Trash size={48} variant={variant}/>
+          <Tree size={48} variant={variant}/>
+          <Trello size={48} variant={variant}/>
+          <TrendDown size={48} variant={variant}/>
+          <TrendUp size={48} variant={variant}/>
+          <Triangle size={48} variant={variant}/>
+          <TriangleLogo size={48} variant={variant}/>
+          <Trontron size={48} variant={variant}/>
+          <Truck size={48} variant={variant}/>
+          <TruckFast size={48} variant={variant}/>
+          <TruckRemove size={48} variant={variant}/>
+          <TruckTick size={48} variant={variant}/>
+          <TruckTime size={48} variant={variant}/>
+          <TrushSquare size={48} variant={variant}/>
+          <Twitch size={48} variant={variant}/>
+        </div>
+      </div>
+      {/* Index: U */}
+      <div className="box">
+        <h2>u</h2>
+        <div>
+          <Ui8 size={48} variant={variant}/>
+          <Unlimited size={48} variant={variant}/>
+          <Unlock size={48} variant={variant}/>
+          <UsdCoin size={48} variant={variant}/>
+          <User size={48} variant={variant}/>
+          <UserAdd size={48} variant={variant}/>
+          <UserCirlceAdd size={48} variant={variant}/>
+          <UserEdit size={48} variant={variant}/>
+          <UserMinus size={48} variant={variant}/>
+          <UserOctagon size={48} variant={variant}/>
+          <UserRemove size={48} variant={variant}/>
+          <UserSearch size={48} variant={variant}/>
+          <UserSquare size={48} variant={variant}/>
+          <UserTag size={48} variant={variant}/>
+          <UserTick size={48} variant={variant}/>
+        </div>
+      </div>
+      {/* Index: V */}
+      <div className="box">
+        <h2>v</h2>
+        <div>
+          <Velas size={48} variant={variant}/>
+          <Verify size={48} variant={variant}/>
+          <Vibe size={48} variant={variant}/>
+          <Video size={48} variant={variant}/>
+          <VideoAdd size={48} variant={variant}/>
+          <VideoCircle size={48} variant={variant}/>
+          <VideoHorizontal size={48} variant={variant}/>
+          <VideoOctagon size={48} variant={variant}/>
+          <VideoPlay size={48} variant={variant}/>
+          <VideoRemove size={48} variant={variant}/>
+          <VideoSlash size={48} variant={variant}/>
+          <VideoSquare size={48} variant={variant}/>
+          <VideoTick size={48} variant={variant}/>
+          <VideoTime size={48} variant={variant}/>
+          <VideoVertical size={48} variant={variant}/>
+          <VoiceCricle size={48} variant={variant}/>
+          <VoiceSquare size={48} variant={variant}/>
+          <Volume size={48} variant={variant}/>
+          <VolumeCross size={48} variant={variant}/>
+          <VolumeHigh size={48} variant={variant}/>
+          <VolumeLow size={48} variant={variant}/>
+          <VolumeLow1 size={48} variant={variant}/>
+          <VolumeMute size={48} variant={variant}/>
+          <VolumeSlash size={48} variant={variant}/>
+          <VolumeUp size={48} variant={variant}/>
+        </div>
+      </div>
+      {/* Index: W */}
+      <div className="box">
+        <h2>w</h2>
+        <div>
+          <Wallet size={48} variant={variant}/>
+          <Wallet1 size={48} variant={variant}/>
+          <Wallet2 size={48} variant={variant}/>
+          <Wallet3 size={48} variant={variant}/>
+          <WalletAdd size={48} variant={variant}/>
+          <WalletAdd1 size={48} variant={variant}/>
+          <WalletCheck size={48} variant={variant}/>
+          <WalletMinus size={48} variant={variant}/>
+          <WalletMoney size={48} variant={variant}/>
+          <WalletRemove size={48} variant={variant}/>
+          <WalletSearch size={48} variant={variant}/>
+          <Wanchain size={48} variant={variant}/>
+          <Wanchain1 size={48} variant={variant}/>
+          <Warning2 size={48} variant={variant}/>
+          <Watch size={48} variant={variant}/>
+          <WatchStatus size={48} variant={variant}/>
+          <Weight size={48} variant={variant}/>
+          <WeightMeter size={48} variant={variant}/>
+          <Whatsapp size={48} variant={variant}/>
+          <Wifi size={48} variant={variant}/>
+          <WifiSquare size={48} variant={variant}/>
+          <Wind size={48} variant={variant}/>
+          <Wind2 size={48} variant={variant}/>
+          <Windows size={48} variant={variant}/>
+          <Wing size={48} variant={variant}/>
+          <Woman size={48} variant={variant}/>
+          <WristClock size={48} variant={variant}/>
+        </div>
+      </div>
+      {/* Index: X */}
+      <div className="box">
+        <h2>x</h2>
+        <div>
+          <Xd size={48} variant={variant}/>
+          <Xiaomi size={48} variant={variant}/>
+          <Xrp size={48} variant={variant}/>
+        </div>
+      </div>
+      {/* Index: Y */}
+      <div className="box">
+        <h2>y</h2>
+        <div>
+          <Youtube size={48} variant={variant}/>
+        </div>
+      </div>
+      {/* Index: Z */}
+      <div className="box">
+        <h2>z</h2>
+        <div>
+          <Zel size={48} variant={variant}/>
+          <Zoom size={48} variant={variant}/>
         </div>
       </div>
     </div>
